@@ -1,0 +1,21 @@
+{"name":"Asmik", 
+"city":"Sochi", 
+"driverslicense":true, 
+"favoritemovie": [
+{
+"name":"Harry Potter",
+"genre": "fantasy",
+"rating": 8
+},
+{
+"name":"Indiana Jones", 
+"genre": "adventures",
+"rating": 9
+},
+{
+"name":"Hachiko", 
+"genre": "drama",
+"rating": 10
+}
+] 
+}
